@@ -3,3 +3,4 @@ check for push.
 editing file on github for pull test.
 adding a line from my mac.
 checking for verification.
+change of email.
